@@ -1,0 +1,14 @@
+.modal {
+  width: 300px;
+  padding: 30px;
+  border: 2px solid rgb(191, 190, 190);
+  background-color: rgb(242, 242, 242);
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.modal span {
+  font-size: 18px;
+}
