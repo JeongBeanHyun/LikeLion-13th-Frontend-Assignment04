@@ -18,7 +18,8 @@ const Timer = () => {
     <div>
       {seconds > 0 && (
       <div className='modal'>
-        <h2>🎉 현정빈 4주차 과제 성공!</h2>
+        <h2>🍀 행운의 메세지가 도착했습니다!</h2>
+        <h4>행운 넘치는 하루되세요~😊</h4>
         <span>⏳ {seconds} 초 후에 폭파됩니다</span>
       </div>
       )}
